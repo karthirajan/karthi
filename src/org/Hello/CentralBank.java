@@ -22,22 +22,10 @@ public class CentralBank {
 		System.out.println("id is :"+id +name);
 		
 
-	}
-	public void empId(String name,long phno) {
-		System.out.println("id is :"+name+phno);
-		
-
-	}
-	public static void main(String[] args) {
-		CentralBank c=new CentralBank();
-		c.empId(20);
-		c.empId(8110069885l);
-		c.empId("karthi");
-		c.empId(20, "karthi");
-	}
 	
 	
-		
+	
+	}		
 		
 		
 
