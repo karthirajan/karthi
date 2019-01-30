@@ -6,10 +6,7 @@ public abstract class StateLocal  {
 	public abstract void jntAcc();
 	public abstract void currAcc();
 	
-	public void bankLoc() {
-		System.out.println("trichy");
-
-	}
+	
 
 		
 	
