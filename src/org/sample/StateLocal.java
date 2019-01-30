@@ -10,6 +10,10 @@ public abstract class StateLocal  {
 		System.out.println("trichy");
 
 	}
+	public void bank() {
+		System.out.println("ICICI");
+
+	}
 
 		
 	
